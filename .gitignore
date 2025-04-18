@@ -1,5 +1,13 @@
 .ssh/
+.zsh_history
+.sqlite_history
+.python_history
+.Trash/
+.DS_Store
+.zsh_sessions/
+.vscode/
+.local/
 .cache/
-.env
-.secrets
+.ollama/
+.wine/
 
