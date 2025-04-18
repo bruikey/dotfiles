@@ -1,0 +1,1 @@
+/Users/shaun0_03/.bashrc
